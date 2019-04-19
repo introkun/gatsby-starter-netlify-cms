@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Code Club Belarus
 image: /img/code-club-header.624fa51d-1-.png
-heading: Great coffee with a conscience
+heading: Code Club Belarus
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
